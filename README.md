@@ -1,2 +1,2 @@
 # Adiellc
-ing en informarica/ desarrollador full stack
+ing en informarica
